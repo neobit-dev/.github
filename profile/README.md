@@ -9,8 +9,8 @@
 | | |
 |---|---|
 | **문의** | [neobit@neobit.co.kr](mailto:neobit@neobit.co.kr) |
-| **앱 다운로드** | https://neobit.co.kr/app |
-| **서비스** | https://cube.neobit.co.kr · https://app.neobit.co.kr |
+| **앱 다운로드** | https://play.google.com/store/apps/details?id=kr.co.neobit.cubefactory |
+| **서비스** | https://app.neobit.co.kr |
 
 ---
 
