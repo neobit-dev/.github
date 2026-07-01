@@ -62,7 +62,6 @@
 | [cube-factory-app-management](./cube-factory-app-management) | **관리자용 Android 앱** — 고객·장비·설치 현황, A/S 지원 |
 | [cube-factory-user-web](./cube-factory-user-web) | **사용자 웹** — 사무실·PC에서 제어와 대시보드 |
 | [company-web](./company-web) | **회사·제품 소개 웹사이트** — 큐브팩토리 소개, 문의 |
-| [company](./company) | **회사 소개 웹** |
 | [docs](./docs) | 내부 문서 |
 
 ---
