@@ -61,6 +61,7 @@
 | [cube-factory-app](./cube-factory-app) | **현장 사용자용 Android 앱** — 제어, 모니터링, CCTV, 알림, 농장 운영 |
 | [cube-factory-app-management](./cube-factory-app-management) | **관리자용 Android 앱** — 고객·장비·설치 현황, A/S 지원 |
 | [cube-factory-user-web](./cube-factory-user-web) | **사용자 웹** — 사무실·PC에서 제어와 대시보드 |
+| [cube-factory-gateway-optimizer](./cube-factory-gateway-optimizer) | **현장 서버** — NAT 우회 장비IP관리,영상중계,통신중계등의 P2P,AI 기능 지원 |
 | [company-web](./company-web) | **회사·제품 소개 웹사이트** — 큐브팩토리 소개, 문의 |
 | [docs](./docs) | 내부 문서 |
 
